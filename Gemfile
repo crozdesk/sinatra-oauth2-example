@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
-gem 'omniauth-crozdesk', git: 'git@github.com:crozdesk/omniauth-crozdesk'
+gem 'omniauth-crozdesk', '~> 1.0.0'
